@@ -1,0 +1,3 @@
+Nama: Wedanta, Jenis Kamar: Single, Tanggal Check-in: 15 Juli 2024, Tanggal Check-out: !7 Juli 2024, No Kamar: 123
+Nama: Tyo, Jenis Kamar: Double, Tanggal Check-in: 18 Juli 2024, Tanggal Check-out: 19 Juli 2024, No Kamar: 142
+Nama: Aldi, Jenis Kamar: Suite, Tanggal Check-in: 20 Juli 2024, Tanggal Check-out: 24 Juli 2024, No Kamar: 164
